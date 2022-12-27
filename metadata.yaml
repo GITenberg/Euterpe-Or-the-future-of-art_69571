@@ -1,0 +1,27 @@
+_repo: Euterpe-Or-the-future-of-art_69571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McColvin, Lionel R.
+    gutenberg_agent_id: '55324'
+    url: http://www.gutenberg.org/2009/agents/55324
+description: ''
+gutenberg_issued: '2022-12-18'
+identifiers:
+  gutenberg: '69571'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b3148340
+pgterms:marc905: 20211111022650mccolvin
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: 'United Kingdom: Kegan Paul, Trench, Trubner & Co., Ltd.,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Euterpe: Or, the future of art'
+url: http://www.gutenberg.org/ebooks/69571
